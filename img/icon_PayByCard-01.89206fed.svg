@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 70" style="enable-background:new 0 0 120 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;}
+	.st2{fill:#62A1D2;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#B2D3FF;}
+	.st5{fill:#DBEEFF;}
+	.st6{fill:#F65453;}
+	.st7{fill:#FF8F14;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="120" height="70"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect class="st1" width="120" height="70"/>
+		<g transform="translate(25 10)">
+			<path class="st2" d="M64.4,0h-59C2.4,0,0,2.4,0,5.5v39.3c0,3,2.4,5.5,5.5,5.5h59c3,0,5.5-2.4,5.5-5.5V5.5C69.9,2.4,67.4,0,64.4,0
+				z"/>
+			<g transform="translate(8.735 8.735)">
+				<path class="st3" d="M15.3,13.1H2.2c-1.2,0-2.2-1-2.2-2.2V2.2C0,1,1,0,2.2,0c0,0,0,0,0,0h13.1c1.2,0,2.2,1,2.2,2.2l0,0v8.7
+					C17.5,12.1,16.5,13.1,15.3,13.1z"/>
+			</g>
+			<g transform="translate(8.735 30.572)">
+				<path class="st4" d="M7.6,5.5H2.2C1,5.5,0,4.5,0,3.3V2.2C0,1,1,0,2.2,0h5.5c1.2,0,2.2,1,2.2,2.2v1.1C9.8,4.5,8.8,5.5,7.6,5.5z"
+					/>
+				<g transform="translate(14.194)">
+					<path class="st4" d="M7.6,5.5H2.2C1,5.5,0,4.5,0,3.3V2.2C0,1,1,0,2.2,0h5.5c1.2,0,2.2,1,2.2,2.2v1.1C9.8,4.5,8.8,5.5,7.6,5.5z"
+						/>
+				</g>
+				<g transform="translate(28.388)">
+					<path class="st4" d="M7.6,5.5H2.2C1,5.5,0,4.5,0,3.3V2.2C0,1,1,0,2.2,0h5.5c1.2,0,2.2,1,2.2,2.2v1.1C9.8,4.5,8.8,5.5,7.6,5.5z"
+						/>
+				</g>
+				<g transform="translate(42.582)">
+					<path class="st4" d="M7.6,5.5H2.2C1,5.5,0,4.5,0,3.3V2.2C0,1,1,0,2.2,0h5.5c1.2,0,2.2,1,2.2,2.2v1.1C9.8,4.5,8.8,5.5,7.6,5.5z"
+						/>
+				</g>
+			</g>
+			<g transform="translate(8.735 40.399)">
+				<path class="st5" d="M22.9,2.2H1.1C0.5,2.2,0,1.7,0,1.1C0,0.5,0.5,0,1.1,0h21.8C23.5,0,24,0.5,24,1.1C24,1.7,23.5,2.2,22.9,2.2z
+					"/>
+			</g>
+			<g transform="translate(34.939 40.399)">
+				<path class="st5" d="M10.9,2.2H1.1C0.5,2.2,0,1.7,0,1.1C0,0.5,0.5,0,1.1,0c0,0,0,0,0,0h9.8C11.5,0,12,0.5,12,1.1
+					C12,1.7,11.5,2.2,10.9,2.2z"/>
+			</g>
+			<g transform="translate(38.791 8.735)">
+				<path class="st6" d="M11.4,10.9c-2.4,2.7-6.6,2.9-9.3,0.5C-0.5,9-0.7,4.9,1.7,2.2s6.6-2.9,9.3-0.5c0.2,0.2,0.4,0.3,0.5,0.5"/>
+			</g>
+			<g transform="translate(13.102 8.735)">
+				<path class="st5" d="M13.1,7.6H2.2V5.5h10.9V3.3H2.2V0H0v13.1h2.2V9.8h10.9V7.6z"/>
+			</g>
+			<g transform="translate(48.042 8.735)">
+				<circle class="st7" cx="6.6" cy="6.6" r="6.6"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
